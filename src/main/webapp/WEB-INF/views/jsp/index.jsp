@@ -41,7 +41,8 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Mithun Technologies Private Limited, Banglore, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226</h3>
+			<h3> Please recommend Mithun Tech to friends and people that wish to learn DevOps</h3>
+			<h4>Contact @ +91-9980923226</h4>
 		</div>	
 	</div>
 
